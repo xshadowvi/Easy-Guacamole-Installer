@@ -88,7 +88,7 @@ GUAC_SOURCE_LINK="http://apache.org/dyn/closer.cgi?action=download&filename=guac
 
 # MySQL Connector/J version to install
 MYSQLJCON="9.3.0"
-MYSQLJCON_SOURCE_LINK="https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-${MYSQLJCON}.tar.gz"
+MYSQLJCON_SOURCE_LINK="https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-${MYSQLJCON}.jar"
 
 # Provide a specific MySQL version e.g. 11.1.2 or leave blank "" to use distro default MySQL packages.
 # See https://mariadb.org/mariadb/all-releases/ for available versions.
